@@ -35,3 +35,8 @@ Following are some of the key points or questions I am looking for in the datase
    Wherever risk is high returns also high, that echoes in lending business whenever they have high risk customer they will charge them more to balance the risk they take. Owning home doesn't mean they have high credit score, but due to underlying security they do get loans at lower interest rate than non home owners.
 
    Income range does affect the loan amount they receive, low income people get less loan amount. Here in our dataset most of the borrowers are employed and have medium credit risk.Interest rate increased till 2011, then it declines. Due to decrease in interest rate, volume of loan disbursement increased in 2013.
+
+
+   Visualisation in Tableau:
+   https://public.tableau.com/views/P2P_loan_data_analysis/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+   
