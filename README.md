@@ -1,5 +1,5 @@
 # Udacity_visualisation_Prosperloandata
-Prosper laon data Visualisation
+Prosper loan data Visualisation and Model building for prediction
 
 ## Introduction
 
@@ -36,9 +36,14 @@ Following are some of the key points or questions I am looking for in the datase
 
    Income range does affect the loan amount they receive, low income people get less loan amount. Here in our dataset most of the borrowers are employed and have medium credit risk.Interest rate increased till 2011, then it declines. Due to decrease in interest rate, volume of loan disbursement increased in 2013.
 
+## Model Building Using SKLearn
+This project aims to build model to predict loan status with given features as input. Since our target data is qualitative and has multiple categories, 
+I have used multi class classification models like Decision tree, SVM and KNN classifiers. Among this decision tree classifier produced accuracy of 98.7%.
+I have used randomized search CV to fine tune parameters for the model. Final Ideal model of Decision tree produced F1 score of 0.99.
 
-   Visualisation in Tableau:
 
+  ** Visualisation in Tableau:
+**
    https://public.tableau.com/views/P2P_loan_data_analysis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
