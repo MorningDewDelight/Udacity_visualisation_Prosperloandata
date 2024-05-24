@@ -40,4 +40,8 @@ Following are some of the key points or questions I am looking for in the datase
    Visualisation in Tableau:
 
    https://public.tableau.com/views/P2P_loan_data_analysis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-   
+
+
+
+   ![Story 1](https://github.com/MorningDewDelight/Udacity_visualisation_Prosperloandata/assets/112013346/645c44b9-6157-458d-b689-b0be87194a5f)
+
